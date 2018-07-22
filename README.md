@@ -19,7 +19,7 @@ Shopping cart using reactJS based SPA application which is using jersey based re
   To execute application locally run the below command
    ./run_local.sh
   
-## Run on a container on local machine
+## Run in a container on local machine
 ### Prerequisites
 - npm and maven must be on your local machine
 - docker and docker-compose must be installed on your local machine
