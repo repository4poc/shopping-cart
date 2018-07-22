@@ -25,3 +25,5 @@ Shopping cart using reactJS based SPA application which is using jersey based re
 - docker and docker-compose must be installed on your local machine
   To execute application locally run the below command
   ./run_with_docker.sh
+
+![homepage](https://user-images.githubusercontent.com/13070658/43041841-b9dd7146-8d89-11e8-827a-41d2c1fb89eb.jpg)
