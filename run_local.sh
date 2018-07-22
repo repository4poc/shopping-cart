@@ -3,10 +3,10 @@ set -e
 
 
 if [[ -z "${CATALINA_HOME}" ]]; then
-  echo="CATALINA_HOME environment value is mandatory.."
+  echo "CATALINA_HOME environment value is mandatory.."
   exit;
 else
-  echo="CATALINA_HOME environment value is set $CATALINA_HOME"
+  echo "CATALINA_HOME environment value is set $CATALINA_HOME"
 fi
 
 # create artifact
